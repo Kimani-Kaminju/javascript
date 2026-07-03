@@ -11,7 +11,7 @@ console.log(weight)
 
 //the initializer const allows us to declare variables that cant change
 const pi=3.142
-
+console.log(pi)
 
 ////////////////////////////////////////
 let height=20,temp =25,points =5
