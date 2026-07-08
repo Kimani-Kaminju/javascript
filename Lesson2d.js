@@ -1,5 +1,6 @@
 ///js loop
-//used to iterare through sth til condition is met
+//used to iterate through sth til condition is met
+
 //structure
 //////keyword followed by the parantheses
 /////initialization;set condition ; increment /decrement

@@ -1,4 +1,4 @@
-let mark = 50
+let mark = 55
 
 if ( mark < 35){
     console.log("Grade attained is E")
@@ -56,16 +56,16 @@ if (distance <= 100){
     console.log("Pay 5 USD")
 }
 
-else if(distance > 100 && distance <= 500){
+else if (distance > 100 && distance <= 500){
     console.log("Pay 10 USD")
 }
 
-else if(distance > 500 && distance <= 1000){
+else if (distance > 500 && distance <= 1000){
     console.log("Pay 20 USD")
 }
 
 
-else if(distance > 1000){
+else if (distance > 1000){
     console.log("Pay 40 USD")
 }
 else{

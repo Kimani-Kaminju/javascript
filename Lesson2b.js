@@ -1,6 +1,6 @@
 /////conditional statements
 
-//if statement - evaluates a condition and return an answe if the condition is met
+//if statement - evaluates a condition and return an answer if the condition is met
 
 let age = 13
 if (age < 18){
@@ -8,7 +8,8 @@ if (age < 18){
 
 }
 console.log("=============")
-//if...else statement - it evaluates a condition and return a response if the condition is ment otherwise the else block is executed
+
+//if...else statement - it evaluates a condition and return a response if the condition is met otherwise the else block is executed
 if(age < 18){
     console.log("This program is not suitable for you...")
 
